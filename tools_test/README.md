@@ -16,4 +16,7 @@ https://www.darknet.org.uk/2017/09/awsbucketdump-aws-s3-security-scanning-tool/
 SQLiv – SQL Injection Dork Scanning Tool<br>
 https://www.darknet.org.uk/2017/10/sqliv-sql-injection-dork-scanning-tool/
 
+snitch – Information Gathering Tool Via Dorks<br>
+https://github.com/Smaash/snitch
+
 
