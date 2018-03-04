@@ -23,19 +23,19 @@ space % ? & = ; + #
 * %e2%89%a0
 
 ## HTML encoding
-* &quot; — "
-* &apos; — '
-* &amp; — &
-* &lt; — <
-* &gt; — >
+* &amp;quot; — "
+* &amp;apos; — '
+* &amp;amp; — &
+* &amp;lt; — <
+* &amp;gt; — >
   
 ### Decimal:
-* <code>&#34; — "</code>
-* &#39; — '
+* &amp;#34; — "</code>
+* &amp;#39; — '
 
 ### Hex:
-* &#x22; — "
-* &#x27; — '
+* &amp;#x22; — "
+* &amp;#x27; — '
 
 
 
