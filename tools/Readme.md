@@ -1,0 +1,5 @@
+sqlmap
+dirsearch
+theHarvester
+dnsrecon
+xssstrike
