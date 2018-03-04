@@ -32,5 +32,6 @@
 ## Web services:
 * [Netcraft](http://searchdns.netcraft.com/)
 * [DNS dumpster](https://dnsdumpster.com/)
+** Выгрузка в  Excel
 * [Pentest-tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
 
