@@ -1,0 +1,7 @@
+dirsearch
+
+dnsrecon
+
+sqlmap
+
+theharvester
