@@ -4,8 +4,8 @@
 * [Google syntax](https://support.google.com/websearch/answer/2466433?hl=en&visit_id=1-636557217326693897-2663777801&rd=1)
 * [Bing.com syntax](http://not-alone.ru/must-have/seo/operators-bing.html)
 
-# Recon:
-## SE:
+# DNS Recon
+## SE
 * Baidu
 * Bing
 * Duck Duck Go
@@ -14,24 +14,30 @@
 * censys.io
 
 ### Bing
-#### Поиск по домену и поддомену:<br>
-* domain:example.com<br>
-#### Только по домену:<br>
-* site:example.com<br>
-#### По типу файла:
+#### Поиск по домену и поддомену
+* domain:example.com
+#### Только по домену
+* site:example.com
+#### По типу файла
 * filetype:doc
-#### Запрос в теле страницы:
+#### Запрос в теле страницы
 * inbody:metrika
 #### Еще:
 * intitle:продвижение сайта
-#### Сайты на одном ip:
+#### Сайты на одном ip
 * ip:ip_адрес
 #### Все домены и поддомены, на которые ссылается сайт
 * linkfromdomain:example.com
 
-## Web services:
+## Web services
 * [Netcraft](http://searchdns.netcraft.com/)
 * [DNS dumpster](https://dnsdumpster.com/)
 ** Выгрузка в  Excel
 * [Pentest-tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+
+## Tools
+[Sublist3r](https://github.com/aboul3la/Sublist3r)
+
+## Articles:
+[Как найти поддомены за считанные минуты?](https://habrahabr.ru/company/hosting-cafe/blog/312954/)
 
