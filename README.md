@@ -32,8 +32,10 @@ space % ? & = ; + #
 </code>
   
 ### Decimal:
+<code>
 * &#34; — "
 * &#39; — '
+</code>
 
 ### Hex:
 * &#x22; — "
