@@ -1,6 +1,8 @@
 [Format](https://github.com/gusevna/format-README)
 
-<a href="http://www.yandex.ru">Yandex</a>
+<a target=_blank href="https://github.com/gusevna/format-README">YFormat README</a>
+
+<a target=_blank href="http://www.yandex.ru">Yandex</a>
 
 # Methodo;ogy
 ## HTTP
