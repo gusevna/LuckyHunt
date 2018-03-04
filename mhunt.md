@@ -30,6 +30,7 @@
 * linkfromdomain:example.com
 
 ## Web services:
-[Netcraft](http://searchdns.netcraft.com/)
-
+* [Netcraft](http://searchdns.netcraft.com/)
+* [DNS dumpster](https://dnsdumpster.com/)
+* [Pentest-tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
 
