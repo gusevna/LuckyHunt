@@ -1,4 +1,4 @@
-[Format](https://github.com/gusevna/format-README)
+[Format](/format-README)
 
 <a target=_blank href="https://github.com/gusevna/format-README">Format README</a>
 
