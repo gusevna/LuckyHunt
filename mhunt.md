@@ -10,7 +10,15 @@
 #### Только по домену:<br>
 * site:example.com<br>
 #### По типу файла:
-filetype:doc
+* filetype:doc
+#### Запрос в теле страницы:
+* inbody:metrika
+#### Еще:
+* intitle:продвижение сайта
+#### Сайты на одном ip:
+* ip:ip_адрес
+#### Все домены и поддомены, на которые ссылается сайт
+* linkfromdomain:example.com
 
 
 
