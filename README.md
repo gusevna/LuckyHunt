@@ -23,12 +23,14 @@ space % ? & = ; + #
 * %e2%89%a0
 
 ## HTML encoding
+<code>
 * &quot; — "
 * &apos; — '
 * &amp; — &
 * &lt; — <
 * &gt; — >
-
+</code>
+  
 ### Decimal:
 * &#34; — "
 * &#39; — '
