@@ -1,7 +1,7 @@
-dirsearch
+# dirsearch
 
-dnsrecon
+# dnsrecon
 
-sqlmap
+# sqlmap
 
-theharvester
+# theharvester
