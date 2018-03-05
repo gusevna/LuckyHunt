@@ -11,3 +11,6 @@
 # theharvester
 
 # xssstrike
+
+# whatweb
+
