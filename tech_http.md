@@ -1,6 +1,7 @@
 # HTTP
 [Wiki](https://ru.wikipedia.org/wiki/HTTP)<br>
-[RFC 2616](https://tools.ietf.org/html/rfc2616)
+[RFC 2616](https://tools.ietf.org/html/rfc2616)<br>
+[RFC 2616 Перевод](http://www.lib.ru/WEBMASTER/rfc2068/)
 
 ## Methods:
 * OPTIONS
