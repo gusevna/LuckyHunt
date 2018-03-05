@@ -5,7 +5,7 @@
 <a target=_blank href="http://www.yandex.ru">Yandex</a>
 
 # Methodo;ogy
-## [HTTP](/blob/master/tech_http.md)
+## [HTTP](https://github.com/gusevna/LuckyHunt/blob/master/tech_http.md)
 ### URL encode:
 space % ? & = ; + #
 
