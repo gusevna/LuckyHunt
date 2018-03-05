@@ -13,6 +13,14 @@
 * DELETE
 * TRACE
 * CONNECT
+### + WebDAV
+* PROPFIND
+* PROPPATCH
+* MKCOL
+* COPY
+* MOVE
+* LOCK
+* UNLOCK
 
 ## Encoding
 ### URL encode:
