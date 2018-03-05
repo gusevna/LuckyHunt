@@ -1,3 +1,7 @@
+# nmap
+
+# nikto
+
 # dirsearch
 
 # dnsrecon
