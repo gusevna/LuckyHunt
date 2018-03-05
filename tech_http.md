@@ -1,5 +1,5 @@
 # HTTP
-[Wiki](https://ru.wikipedia.org/wiki/HTTP)
+[Wiki](https://ru.wikipedia.org/wiki/HTTP)<br>
 [RFC 2616](https://tools.ietf.org/html/rfc2616)
 
 ## Methods:
