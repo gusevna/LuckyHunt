@@ -4,6 +4,7 @@
 * [Google syntax](https://support.google.com/websearch/answer/2466433?hl=en&visit_id=1-636557217326693897-2663777801&rd=1)
 * [Bing.com syntax](http://not-alone.ru/must-have/seo/operators-bing.html)
 * [Bing.com syntax eng](https://help.bing.microsoft.com/#apex/18/en-us/10001/0)
+* [YAHOO syntax](http://www.shtogrin.com/library/search_engines/advansed_search/yahoo/)
 
 # DNS Recon
 ## SE
@@ -11,6 +12,7 @@
 * [Bing](https://bing.com)
 * [Duck Duck Go](https://duckduckgo.com)
 * Google
+* [YAHOO](https://yahoo.com)
 * [Shodan](https://www.shodan.io/)
 * [Censys](https://censys.io)
 
