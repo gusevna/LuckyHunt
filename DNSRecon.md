@@ -7,11 +7,11 @@
 # DNS Recon
 ## SE
 * Baidu
-* Bing
-* Duck Duck Go
+* [Bing](https://bing.com)
+* [Duck Duck Go](https://duckduckgo.com)
 * Google
-* Shodan
-* censys.io
+* [Shodan](https://www.shodan.io/)
+* [Censys](https://censys.io)
 
 ### Bing
 #### Поиск по домену и поддомену
@@ -34,7 +34,7 @@
 * [DNS dumpster](https://dnsdumpster.com/)
 ** Выгрузка в  Excel
 * [Pentest-tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
-* [Robtex](https://www.robtex.com/dns-lookup/instacart.com)
+* [Robtex](https://www.robtex.com/dns-lookup/domain.com)
 
 ## Tools
 [Sublist3r](https://github.com/aboul3la/Sublist3r)
