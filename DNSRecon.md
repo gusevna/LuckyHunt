@@ -34,6 +34,7 @@
 * [DNS dumpster](https://dnsdumpster.com/)
 ** Выгрузка в  Excel
 * [Pentest-tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+* [Robtex](https://www.robtex.com/dns-lookup/instacart.com)
 
 ## Tools
 [Sublist3r](https://github.com/aboul3la/Sublist3r)
