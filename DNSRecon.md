@@ -15,7 +15,7 @@
 
 ### Bing
 #### Примеры
-* [WP](https://www.bing.com/search?q=inbody%3A%2Fwp-content%2F&qs=n&form=QBLH&sp=-1&pq=undefined&sc=0-18&sk=&cvid=201559FFADB14412B0A36FEDD6AA0BA3)
+* [WP /wp-content/](https://www.bing.com/search?q=inbody%3A%2Fwp-content%2F&qs=n&form=QBLH&sp=-1&pq=undefined&sc=0-18&sk=&cvid=201559FFADB14412B0A36FEDD6AA0BA3)
 #### Поиск по домену и поддомену
 * domain:example.com
 #### Только по домену
